@@ -6,7 +6,7 @@
 - MSSV: 2A202603243
 - Email: niuzoh@gmail.com
 - Lớp: 2A
-- Link repo bài làm: 
+- Link repo bài làm: https://github.com/LuuNhatNamm/K5-L2A-Day02-LuuNhatNam-202603243-ObjectDetection.git
 - Link Colab đã chạy: https://colab.research.google.com/drive/1OSpQcVHMhEhEw3eIfFQagId7mYIrF0B7?usp=sharing
 
 ## 2. Schema và mini guideline
